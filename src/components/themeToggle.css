@@ -1,0 +1,20 @@
+
+
+.theme-toggle{
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.theme-toggle.light{
+    background-color: #000;
+    color: #fff;
+}
+
+.theme-toggle.dark{
+    background-color: #fff;
+    color: #000;
+}
