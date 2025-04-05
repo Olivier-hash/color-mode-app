@@ -1,0 +1,14 @@
+.navbar{
+    padding: 10px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+
+.navbar.light{
+    background-color: #fff;
+    color: #0000;
+}
+.navbar.dark{
+    background-color: #333;
+    color: #fff;
+}
