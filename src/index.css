@@ -1,0 +1,12 @@
+/* Global styles for light theme */
+body.light {
+    background-color: #fff;  /* Light background */
+    color: #110101a3;             /* Dark text */
+  }
+  
+  /* Global styles for dark theme */
+  body.dark {
+    background-color: #333;  /* Dark background */
+    color: #fff;             /* Light text */
+  }
+  
